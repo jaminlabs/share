@@ -49,7 +49,7 @@ Claude is the only plan I run out of. Google is the one people call "best value"
 
 ## 6. Do the check with one command (optional)
 
-`usage_snapshot.py` reads what Claude Code, Codex and the Antigravity CLI already saved on your computer and prints the end-of-week pace for each. It sends nothing anywhere. It reads undocumented local files, so it may stop working when the tools update. If it does, use the official pages in step 1.
+`usage_snapshot.py` reads what Claude Code, Codex and the Antigravity CLI already saved on your computer and prints the end-of-week pace for each. On its own it sends nothing anywhere; with `--agy` it also runs the Antigravity CLI, which talks to Google the way it always does. It reads undocumented local files, so it may stop working when the tools update. If it does, use the official pages in step 1.
 
 ```
 python3 usage_snapshot.py          # Claude Code + Codex
