@@ -27,13 +27,13 @@ Example from my Google plan: on October 16, 8% used when 48% of the week had gon
 - **Claude Max and Google AI Ultra:** the $100 tier has **1/4** of the $200 tier's quota (5x vs 20x the Pro plan, per both companies' plan pages). So if you finish the week under about 20% on the $200 tier, the $100 tier still fits.
 - **ChatGPT Pro:** OpenAI doesn't publish the ratio between Pro $100 and Pro $200. Also, new Pro $200 subscriptions that aren't grandfathered already get "a lower usage allowance than previously offered with Pro 200", and eligible older subscribers keep the previous allowance only "through October 29, 2026". Same $200 price. Check your number again after that date.
 
-## 4. Which kind of user are you? (my take)
+## 4. Which kind of work do you do? (my take, as I said it in the video)
 
-- **You build with coding agents all day → Claude.** Start at $100. Go up only when you hit the weekly wall two weeks in a row.
-- **You make video → Google.** Of these three, it's the only plan with video credits. The $100 tier gives 10,000 Flow credits a month. A full episode cost me about 2,000.
-- **Your day is writing, research and planning → ChatGPT.** Chat has its own limit, separate from Codex. $20 may be all you need.
-- **You run bots around the clock → put the bulk reading on the plan that sits idle,** and save your best plan for the work that needs it.
-- **Just starting → one $20 plan.** Upgrade when you hit the limit, not when a video tells you to.
+- **Short ads, under a minute → Google AI Ultra.** Flow credits plus Google Vids. One 8-second clip (Omni Flash) is 12 credits, and $199.99 ÷ 25,000 credits is about $0.008 a credit, so a 1-minute ad (≈ 8 clips, 96 credits) is about **$0.77 before retakes**. The catch: Flow blocks fast automation. On October 16 my agent sent one clip at a time, 45 seconds apart, and got "unusual activity" after 50 clips in 90 minutes.
+- **Realistic or action video → Seedance 2.5 or Kling 4.0.** Budget for it: one take on Veo 3.1's API is $0.40 a second ($24 a minute), and a real AI series (The Arc) spent about $38K of credits on ~83 minutes, roughly **$458 per finished minute**. The tools (ComfyUI, Stable Diffusion) are free; you pay for the models, and the monthly subscription is the cheap way in. Watch for startup promos at 50–80% off.
+- **Coding → Claude (Opus 5.5).** Claude Max is $100 or $200. I keep GPT-6 Astra (ChatGPT Pro) for UI tweaks: it's good, but slow.
+- **Never used an agent (only free chatbots, one question at a time) → skip the $20 tier and take the $200 plan.** Right now that's Claude Max 20x ($200). Sooner or later the best one might change, so check your meter (steps 1–3) instead of trusting any video, including this one.
+- **The catch with every $200 plan:** going fast can stall it (Astra stopped answering for me; Flow's page stops responding when I run jobs in parallel). What you can use is less than what you pay for, so measure it (steps 1–3).
 
 ## 5. My receipts
 
