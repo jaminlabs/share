@@ -1,5 +1,7 @@
 # Which AI plan fits your work? A 2-minute self-check
 
+Video, transcript and numbers: [jaminlabs.com/v/which-ai-plan](https://jaminlabs.com/v/which-ai-plan/?src=github)
+
 From the jamin labs video *Everyone Says a Different AI Plan Is Best. I Pay for All Three.* I pay for the top plan at Claude, ChatGPT and Google, and I check what I actually use. You can do the same check on your own account in about two minutes.
 
 ## 1. Find your own usage (official places)

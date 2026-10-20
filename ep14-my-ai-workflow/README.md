@@ -1,5 +1,7 @@
 # One task before another AI tool
 
+Video, transcript and numbers: [jaminlabs.com/v/my-ai-setup](https://jaminlabs.com/v/my-ai-setup/?src=github)
+
 Use this worksheet to test one recurring task with a tool you already have. Allow about ten minutes to write the brief; the task itself may take longer.
 
 | Field | Write your answer |

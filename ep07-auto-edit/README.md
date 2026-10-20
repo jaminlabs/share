@@ -1,5 +1,7 @@
 # Talk to your phone, let your agent edit (jamin labs EP07)
 
+Video, transcript and numbers: [jaminlabs.com/v/phone-to-edited-video](https://jaminlabs.com/v/phone-to-edited-video/?src=github)
+
 What this is: the recipe my agent follows to turn phone clips into a finished cut with captions, cards and a review, plus the prompt I give it. You can run it with your own coding agent (Claude Code, Codex, or anything that can run commands) on your own computer.
 
 How long: setting it up with an agent takes an afternoon. After that, one edit is "send the clips, type one message, watch the result".

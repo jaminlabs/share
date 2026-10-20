@@ -1,6 +1,7 @@
 # jamin labs: everything I share
 
 Files from the jamin labs YouTube channel ([youtube.com/@jaminlabs](https://www.youtube.com/@jaminlabs)).
+Each video's transcript, numbers and sources: [jaminlabs.com/v](https://jaminlabs.com/v/?src=github).
 Every video gets a folder with something you can try on your own computer: the check, the prompt, the script, the setup.
 It's free. Passwords, keys and personal details are taken out, and every file is checked for them before it goes here.
 

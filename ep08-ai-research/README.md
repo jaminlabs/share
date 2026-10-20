@@ -1,5 +1,7 @@
 # Build a research feed you can actually use
 
+Video, transcript and numbers: [jaminlabs.com/v/ai-research-feed](https://jaminlabs.com/v/ai-research-feed/?src=github)
+
 Start with one topic, two sources, and one review per day. This is a small experiment, not a guarantee of accurate research.
 
 1. Fill in `research-brief.txt` with your topic, exclusions, and the decision the research should help you make.
