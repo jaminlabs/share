@@ -9,5 +9,6 @@ It's free. Passwords, keys and personal details are taken out, and every file is
 | [ep06-which-ai-plan](ep06-which-ai-plan/) | Which AI plan fits your work? A 2-minute self-check |
 | [ep07-auto-edit](ep07-auto-edit/) | Talk to your phone, let your agent edit (jamin labs EP07) |
 | [ep08-ai-research](ep08-ai-research/) | Build a research feed you can actually use |
+| [ep12-its-over](ep12-its-over/) | Before you copy a successful AI video |
 
 Code is MIT licensed (see LICENSE). Prices and limits in these notes are dated; check the linked official pages before you act on them.
