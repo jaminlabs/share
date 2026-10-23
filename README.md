@@ -15,5 +15,6 @@ It's free. Passwords, keys and personal details are taken out, and every file is
 | [ep16-cheap-ai-costs-more](ep16-cheap-ai-costs-more/) | The real-price check: is the cheap model actually cheaper? |
 | [ep17-security-week](ep17-security-week/) | Security week patch check (Oct 21, 2026) |
 | [ep18-bots-vs-bots](ep18-bots-vs-bots/) | Stolen AI API key check (15 minutes) |
+| [ep19-gpu-unlock](ep19-gpu-unlock/) | Is your RTX 30 card running tensor math at half rate? (Oct 23, 2026) |
 
 Code is MIT licensed (see LICENSE). Prices and limits in these notes are dated; check the linked official pages before you act on them.
