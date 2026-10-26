@@ -19,4 +19,7 @@ It's free. Passwords, keys and personal details are taken out, and every file is
 | [ep21-ai-bubble-prediction](ep21-ai-bubble-prediction/) | Are you using AI like the top 1%? (Oct 24, 2026) |
 | [ep22-model-roulette](ep22-model-roulette/) | You pick Opus 5.5. Which model answered? A 10-minute canary you can run yourself (Oct 24, 2026) |
 
+| [ep25-tesla-founder-burns-gas](ep25-tesla-founder-burns-gas/) | AI power, without the unit confusion |
+| [ep26-musk-last-compute-seller](ep26-musk-last-compute-seller/) | Who sells AI compute to whom? |
+
 Code is MIT licensed (see LICENSE). Prices and limits in these notes are dated; check the linked official pages before you act on them.
