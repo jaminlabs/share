@@ -22,5 +22,6 @@ It's free. Passwords, keys and personal details are taken out, and every file is
 
 | [ep25-tesla-founder-burns-gas](ep25-tesla-founder-burns-gas/) | AI power, without the unit confusion |
 | [ep26-musk-last-compute-seller](ep26-musk-last-compute-seller/) | Who sells AI compute to whom? |
+| [ep28-nine-never-answered](ep28-nine-never-answered/) | The outreach loop from "Nine never answered" |
 
 Code is MIT licensed (see LICENSE). Prices and limits in these notes are dated; check the linked official pages before you act on them.
