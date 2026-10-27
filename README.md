@@ -18,6 +18,7 @@ It's free. Passwords, keys and personal details are taken out, and every file is
 | [ep19-gpu-unlock](ep19-gpu-unlock/) | Is your RTX 30 card running tensor math at half rate? (Oct 23, 2026) |
 | [ep21-ai-bubble-prediction](ep21-ai-bubble-prediction/) | Are you using AI like the top 1%? (Oct 24, 2026) |
 | [ep22-model-roulette](ep22-model-roulette/) | You pick Opus 5.5. Which model answered? A 10-minute canary you can run yourself (Oct 24, 2026) |
+| [ep23-same-model-different-chips](ep23-same-model-different-chips/) | Is my AI having a bad day? A 20-minute re-run test (Oct 24, 2026) |
 
 | [ep25-tesla-founder-burns-gas](ep25-tesla-founder-burns-gas/) | AI power, without the unit confusion |
 | [ep26-musk-last-compute-seller](ep26-musk-last-compute-seller/) | Who sells AI compute to whom? |
