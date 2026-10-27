@@ -24,5 +24,8 @@ It's free. Passwords, keys and personal details are taken out, and every file is
 | [ep26-musk-last-compute-seller](ep26-musk-last-compute-seller/) | Who sells AI compute to whom? |
 | [ep28-nine-never-answered](ep28-nine-never-answered/) | The outreach loop from "Nine never answered" |
 | [ep29-video-edit-under-a-dollar](ep29-video-edit-under-a-dollar/) | What did one video cost in AI? (jamin labs EP29) |
+| [ep30-dollar-per-edit](ep30-dollar-per-edit/) | What does one edited video cost you in AI? (jamin labs EP30) |
+| [ep31-four-hours-per-video](ep31-four-hours-per-video/) | The 4-hour edit audit (from "Four hours per video") |
+| [ep32-everyone-edits-with-claude](ep32-everyone-edits-with-claude/) | Taste profile, from "Everyone edits with Claude" |
 
 Code is MIT licensed (see LICENSE). Prices and limits in these notes are dated; check the linked official pages before you act on them.
