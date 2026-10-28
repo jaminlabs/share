@@ -29,5 +29,6 @@ It's free. Passwords, keys and personal details are taken out, and every file is
 | [ep31-four-hours-per-video](ep31-four-hours-per-video/) | The 4-hour edit audit (from "Four hours per video") |
 | [ep32-everyone-edits-with-claude](ep32-everyone-edits-with-claude/) | Taste profile, from "Everyone edits with Claude" |
 | [ep34-can-claude-replace-my-mic](ep34-can-claude-replace-my-mic/) | Mic Twin recipe, from "Can Claude Replace My Mic?" |
+| [ep35-my-10-mic-sounds-pro](ep35-my-10-mic-sounds-pro/) | Auto-fix only the takes you filmed without your mic, from "I Recorded This Without My Mic" |
 
 Code is MIT licensed (see LICENSE). Prices and limits in these notes are dated; check the linked official pages before you act on them.
