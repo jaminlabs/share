@@ -16,6 +16,7 @@ It's free. Passwords, keys and personal details are taken out, and every file is
 | [ep17-security-week](ep17-security-week/) | Security week patch check (Oct 21, 2026) |
 | [ep18-bots-vs-bots](ep18-bots-vs-bots/) | Stolen AI API key check (15 minutes) |
 | [ep19-gpu-unlock](ep19-gpu-unlock/) | Is your RTX 30 card running tensor math at half rate? (Oct 23, 2026) |
+| [ep20-ghost-ai](ep20-ghost-ai/) | Before you buy a $3,499 AI box, check the PC you already own (Oct 24, 2026) |
 | [ep21-ai-bubble-prediction](ep21-ai-bubble-prediction/) | Are you using AI like the top 1%? (Oct 24, 2026) |
 | [ep22-model-roulette](ep22-model-roulette/) | You pick Opus 5.5. Which model answered? A 10-minute canary you can run yourself (Oct 24, 2026) |
 | [ep23-same-model-different-chips](ep23-same-model-different-chips/) | Is my AI having a bad day? A 20-minute re-run test (Oct 24, 2026) |
