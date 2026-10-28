@@ -27,5 +27,6 @@ It's free. Passwords, keys and personal details are taken out, and every file is
 | [ep30-dollar-per-edit](ep30-dollar-per-edit/) | What does one edited video cost you in AI? (jamin labs EP30) |
 | [ep31-four-hours-per-video](ep31-four-hours-per-video/) | The 4-hour edit audit (from "Four hours per video") |
 | [ep32-everyone-edits-with-claude](ep32-everyone-edits-with-claude/) | Taste profile, from "Everyone edits with Claude" |
+| [ep34-can-claude-replace-my-mic](ep34-can-claude-replace-my-mic/) | Mic Twin recipe, from "Can Claude Replace My Mic?" |
 
 Code is MIT licensed (see LICENSE). Prices and limits in these notes are dated; check the linked official pages before you act on them.
