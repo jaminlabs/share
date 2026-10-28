@@ -20,7 +20,6 @@ It's free. Passwords, keys and personal details are taken out, and every file is
 | [ep22-model-roulette](ep22-model-roulette/) | You pick Opus 5.5. Which model answered? A 10-minute canary you can run yourself (Oct 24, 2026) |
 | [ep23-same-model-different-chips](ep23-same-model-different-chips/) | Is my AI having a bad day? A 20-minute re-run test (Oct 24, 2026) |
 | [ep24-two-prompts-away](ep24-two-prompts-away/) | The two-prompt test: how much of your app can a model copy? |
-
 | [ep25-tesla-founder-burns-gas](ep25-tesla-founder-burns-gas/) | AI power, without the unit confusion |
 | [ep26-musk-last-compute-seller](ep26-musk-last-compute-seller/) | Who sells AI compute to whom? |
 | [ep28-nine-never-answered](ep28-nine-never-answered/) | The outreach loop from "Nine never answered" |
