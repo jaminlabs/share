@@ -31,5 +31,7 @@ It's free. Passwords, keys and personal details are taken out, and every file is
 | [ep34-can-claude-replace-my-mic](ep34-can-claude-replace-my-mic/) | Mic Twin recipe, from "Can Claude Replace My Mic?" |
 | [ep35-my-10-mic-sounds-pro](ep35-my-10-mic-sounds-pro/) | Auto-fix only the takes you filmed without your mic, from "I Recorded This Without My Mic" |
 | [ep36-a-bot-replied-to-my](ep36-a-bot-replied-to-my/) | A bot replied to my $99 offer (EP36) |
+| [ep39-copied-apps-die](ep39-copied-apps-die/) | Why a Photoshop knockoff works but an AI app copy won't (EP39) |
+| [ep40-skip-the-ai-course](ep40-skip-the-ai-course/) | EP40: Don't buy the AI course |
 
 Code is MIT licensed (see LICENSE). Prices and limits in these notes are dated; check the linked official pages before you act on them.
