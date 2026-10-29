@@ -28,11 +28,15 @@ It's free. Passwords, keys and personal details are taken out, and every file is
 | [ep30-dollar-per-edit](ep30-dollar-per-edit/) | What does one edited video cost you in AI? (jamin labs EP30) |
 | [ep31-four-hours-per-video](ep31-four-hours-per-video/) | The 4-hour edit audit (from "Four hours per video") |
 | [ep32-everyone-edits-with-claude](ep32-everyone-edits-with-claude/) | Taste profile, from "Everyone edits with Claude" |
+| [ep33-people-sell-97-opus-5](ep33-people-sell-97-opus-5/) | Before you pay $97 for an AI video editing course |
 | [ep34-can-claude-replace-my-mic](ep34-can-claude-replace-my-mic/) | Mic Twin recipe, from "Can Claude Replace My Mic?" |
 | [ep35-my-10-mic-sounds-pro](ep35-my-10-mic-sounds-pro/) | Auto-fix only the takes you filmed without your mic, from "I Recorded This Without My Mic" |
 | [ep36-a-bot-replied-to-my](ep36-a-bot-replied-to-my/) | A bot replied to my $99 offer (EP36) |
+| [ep37-how-i-check-my-content](ep37-how-i-check-my-content/) | How I check my content stats every day |
 | [ep38-post-100-a-day](ep38-post-100-a-day/) | Gary Vee says post 100 a day (EP38) |
 | [ep39-copied-apps-die](ep39-copied-apps-die/) | Why a Photoshop knockoff works but an AI app copy won't (EP39) |
 | [ep40-skip-the-ai-course](ep40-skip-the-ai-course/) | EP40: Don't buy the AI course |
+| [ep41-i-m-building-a-video](ep41-i-m-building-a-video/) | I'm building a video editor that tells me my content is boring (EP41) |
+| [ep42-97-opus-5-5-editing](ep42-97-opus-5-5-editing/) | $97 Opus 5.5 editing courses vs free open-source clones |
 
 Code is MIT licensed (see LICENSE). Prices and limits in these notes are dated; check the linked official pages before you act on them.
